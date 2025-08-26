@@ -4,12 +4,13 @@ A Python-based project for detecting **stego images** (images with hidden data) 
 ---
 
 ## 📂 Repository Structure
+```
 ├── clear/ # Directory containing clean images
 ├── stego_us/ # Directory containing stego images
 ├── yo/ # Directory for test images
 ├── main.py # Main script (this code)
 └── README.md # Documentation
-
+```
 
 ---
 
