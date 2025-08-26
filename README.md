@@ -34,7 +34,7 @@ A Python-based project for detecting **stego images** (images with hidden data) 
 Clone the repository and install dependencies:
 
 ```
-git clone https://github.com/yourusername/Image-Steganography-Classifier.git
+git clone https://github.com/keivik3/ML-Steganography-Classifier.git
 cd Image-Steganography-Classifier
 pip install -r requirements.txt
 ```
